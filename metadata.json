@@ -1,0 +1,5 @@
+{
+  "name": "微信记账本 (WeChat Expense Tracker)",
+  "description": "A simple and elegant expense tracking application designed to mimic the look and feel of a WeChat Mini Program. Users can add, view, and delete their daily expenses, and visualize their spending with a summary chart.",
+  "requestFramePermissions": []
+}
